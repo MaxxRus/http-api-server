@@ -1,2 +1,6 @@
 bind_addr = ":8080"
 log_level = "debug"
+
+[store]
+
+database_url = "root:P@ssw0rd@tcp(127.0.0.1:3306)/test"
